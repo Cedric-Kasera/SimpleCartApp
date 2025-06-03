@@ -13,7 +13,8 @@
 | SIT/B/01-03317/2023 | Odhiambo Odero        |
 | SIT/B/01-03324/2023 | Nyabuya Moses         |
 | SIT/B/01-57842/2023 | Phylis Imintsa        |
-| SIT/B/01-03285/2023 | Zerubabel Odol        |
+| SIT/B/01-03285/2023 | Zerubabel Odol 
+|SIT/B/01-03247/2023  | Thiery Laban
 
 | Role     | Name            |
 | -------- | --------------- |
