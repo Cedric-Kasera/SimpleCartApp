@@ -18,4 +18,4 @@
 | Role     | Name            |
 | -------- | --------------- |
 | Attachee | Mary Akumu      |
-| Attachee | Griffin Mudenyo |
+| Attachee | Griffins Mudenyo |
