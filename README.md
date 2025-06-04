@@ -1,9 +1,9 @@
-l| Registration Number | Name                  |
+| Registration Number | Name                  |
 | ------------------- | --------------------- |
 | COM/B/01-0095/2023  | Kasera Omar           |
 | COM/B/01-00146/2023 | Willington Juma       |
 | COM/B/01-00139/2023 | Griffin Mariera       |
-| ETS/B/01-04343/2023 | Wayne Sinadani Sapiri |
+| ETS/B/01-04343/2023 | Wayne Sinadani 
 | ITE/D/01-57030/2023 | Cynthia Muyele        |
 | ITE/D/01-57057/2023 | Batheny Lok           |
 | SIK/B/01-02307/2022 | Mary Bendera          |
